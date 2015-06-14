@@ -1,0 +1,45 @@
+body {
+    width: 110px;
+    margin: 0px;
+    padding: 0px;
+    background-color: #fff;
+    overflow-x: hidden;
+}
+
+div{
+    margin: 0px;
+    padding: 0px;
+}
+
+div.volume{
+    height: 20px;
+}
+
+img.volume {
+    width: 16px;
+    padding: 2px 5px;
+}
+
+input.volume {
+    width: 74px;
+    padding: 2.5px 5px;
+}
+
+div.control{
+    padding: 0 6px;
+}
+
+img.control {
+    width: 32px;
+    margin: 4px 6px;
+}
+
+div.appendix {
+    width: 110px;
+    display: none;
+}
+
+div.appendix p {
+    margin: 0px 2px 0px 0px;
+    text-align: right;
+}
